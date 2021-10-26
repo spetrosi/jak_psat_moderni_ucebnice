@@ -14,7 +14,7 @@ _class:
 
 # Jak psát moderní učebnice
 
-Miroslav Suchý, Sergei Petrosian, Lukáš Růžička:  
+Miroslav Suchý, Sergei Petrosian, Lukáš Růžička  
 
 ## Jak je tato prezentace vytvořena
 
