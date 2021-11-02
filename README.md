@@ -93,20 +93,20 @@ Principy Docs-as-Code:
 ## Kapitola 1. Tučné písmo, kurzíva, a monospace
 Tento řádek obsahuje **tučné písmo**, *kurzívu*, a `monospace`
 
-## Podkapitola 1.1. Číslovaný seznam pomoci čisel
+### Podkapitola 1.1. Číslovaný seznam pomocí čisel
 1. Řádek 1
 2. Řádek 2
 
-## Kapitola 2. Seznam odrážek pomoci pomlček
+## Kapitola 2. Seznam odrážek pomocí pomlček
 - Řádek 1
  - Podřádek 1.1
 - Řádek 2
 
-## Kapitola 3. Okdazy
+## Kapitola 3. Odkazy
 [Seznam.cz](https://www.seznam.cz/)
 ```
 
-## Konverze souboru v rozšíření Markdown
+## Převod souboru v rozšíření Markdown
 
 Ke konverzi textových souborů lze použít k tomu určené nástroje, jako například:
 - `pandoc`
@@ -114,17 +114,18 @@ Ke konverzi textových souborů lze použít k tomu určené nástroje, jako nap
 - `marp`
 
 <!--
-Tady bude ukázka konverze příkladu do HTML pomocí pandoc
+Tady bude ukázka převod příkladu do HTML pomocí pandoc
 -->
 
 ## Jak je tato prezentace vytvořena
 
-Tato prezentace je vytvořena pomocí [Marp](https://marp.app/) a [Marp Action](https://github.com/ralexander-phi/marp-action), které umožňují automatické nasazení prezentace na [GitHub Pages](https://pages.github.com/).
+Tato prezentace je vytvořena pomocí [Marp](https://marp.app/) a [Marp Action](https://github.com/ralexander-phi/marp-action), které umožňují automatické nasazení prezentace na web pomocí [GitHub Pages](https://pages.github.com/).
 
-Tato prezentace je zároveň [webová stránka](https://spetrosi.github.io/jak_psat_moderni_ucebnice/) a [README.md](https://github.com/spetrosi/jak_psat_moderni_ucebnice/blob/master/README.md) soubor.
+Tato prezentace je vygenerovaná z Markdown souboru https://github.com/spetrosi/jak_psat_moderni_ucebnice/blob/master/README.md
+GitHub Pages automatické publikuje slajdy na https://spetrosi.github.io/jak_psat_moderni_ucebnice/
 
 <!--
-Tady bude ukázka konverze slajdů z README.md do HTML a PDF pomocí marp
+Tady bude ukázka převod slajdů z README.md do HTML a PDF pomocí marp
 -->
 
 ## Co když Markdown pro moje účely nestačí?
