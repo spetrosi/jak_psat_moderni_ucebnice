@@ -68,7 +68,7 @@ Nízká bariéra pro opravy a úpravy.
 
 - Obsah lze měnit, přizpůsobovat a neustále vylepšovat.
 
-- Obsah lze jednoduše převést
+- Obsah lze jednoduše převést.
 
 ## Komunitní dílo (+)
 
@@ -154,6 +154,7 @@ Tady bude ukázka převod slajdů z README.md do HTML a PDF pomocí marp
 ## Co když Markdown pro moje účely nestačí?
 
 AsciiDoc je dalším značkovacím jazykem, který však disponuje daleko větším množstvím funkcí. Je například schopen plnit následující úkoly:
+
 - AsciiDoc poskytuje sofistikovaněji strukturu dokumentů.
 - Pomocí direktivy `include::` lze přidávat obsah souborů přímo do stávajícího textu.
 - Lze využit proměnné pro opakované použití stejného obsahu.
