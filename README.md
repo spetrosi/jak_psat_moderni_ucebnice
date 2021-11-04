@@ -39,7 +39,6 @@ Vydat učebnici trvá taky rok.
 
 V informatice jsou dva roky věčnost. Ale platí to i pro jiné obory.
 
-
 ## Takže...
 
 V den vydání je učebnice prakticky dva roky stará.
@@ -185,4 +184,3 @@ Jak rychle a jednodušše vytvořit krátkou knihu způsobem *as-code* pomocí [
 - editace na hlavní větvi a generování obsahu
 - editace na vývojové větvi a ověření, že obsah se nemění
 - sloučení vývojové do hlavní větve a generování obsahu
-
